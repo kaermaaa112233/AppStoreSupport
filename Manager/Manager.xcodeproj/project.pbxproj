@@ -15,6 +15,7 @@
 		4E8ACAF0256A54E30012DE28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E8ACAEE256A54E30012DE28 /* LaunchScreen.storyboard */; };
 		4E8ACAF9256A54FF0012DE28 /* Privacy.html in Resources */ = {isa = PBXBuildFile; fileRef = 4E8ACAF8256A54FF0012DE28 /* Privacy.html */; };
 		4E8ACAFC256A568E0012DE28 /* Support.html in Resources */ = {isa = PBXBuildFile; fileRef = 4E8ACAFB256A568E0012DE28 /* Support.html */; };
+		4E9D74C125A41D47004BF555 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4E9D74C025A41D47004BF555 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4E8ACAF1256A54E30012DE28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E8ACAF8256A54FF0012DE28 /* Privacy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Privacy.html; path = ../Privacy.html; sourceTree = "<group>"; };
 		4E8ACAFB256A568E0012DE28 /* Support.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Support.html; path = ../Support.html; sourceTree = "<group>"; };
+		4E9D74C025A41D47004BF555 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		4E8ACAD7256A54E20012DE28 = {
 			isa = PBXGroup;
 			children = (
+				4E9D74C025A41D47004BF555 /* README.md */,
 				4E8ACAFB256A568E0012DE28 /* Support.html */,
 				4E8ACAF8256A54FF0012DE28 /* Privacy.html */,
 				4E8ACAE2256A54E20012DE28 /* Manager */,
@@ -130,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E9D74C125A41D47004BF555 /* README.md in Resources */,
 				4E8ACAF0256A54E30012DE28 /* LaunchScreen.storyboard in Resources */,
 				4E8ACAFC256A568E0012DE28 /* Support.html in Resources */,
 				4E8ACAF9256A54FF0012DE28 /* Privacy.html in Resources */,
